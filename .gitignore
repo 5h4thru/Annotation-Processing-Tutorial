@@ -1,0 +1,7 @@
+# IntelliJ files and folders
+.DS_Store
+.idea/
+java-annotations.iml
+
+# Build folder
+out/*
